@@ -2,6 +2,14 @@
 
 A full-stack fashion e-commerce application built with the MERN stack. FOREVER features a customer storefront, a separate admin dashboard, JWT authentication, persistent shopping carts, product management with multiple image uploads, order tracking, and three payment methods: Stripe Checkout, Bank Transfer, and Cash on Delivery.
 
+## Live Demo
+
+| Application | Link |
+|---|---|
+| Customer Storefront | [forever-frontend-three-puce.vercel.app](https://forever-frontend-three-puce.vercel.app/) |
+| Admin Dashboard | [forever-admin-six-orpin.vercel.app](https://forever-admin-six-orpin.vercel.app/) |
+| Backend API | [forever-backend-ten-snowy.vercel.app](https://forever-backend-ten-snowy.vercel.app/) |
+
 ## Screenshots
 
 ### 1. Homepage
